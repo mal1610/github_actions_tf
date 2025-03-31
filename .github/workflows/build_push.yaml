@@ -18,4 +18,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: docker.io/mal89/flask-app-sctp:latest
+          tags: docker.io/mal89/flask-app-sctp:2.0.0
